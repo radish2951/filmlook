@@ -1,6 +1,0 @@
-# wrangler.toml
-name = "filmlook"                  # Cloudflare 側の Worker 名と合わせる
-compatibility_date = "2025-04-18"  # 今日の日付でOK
-
-[site]
-bucket = "./dist"                  # ビルド成果物フォルダ
